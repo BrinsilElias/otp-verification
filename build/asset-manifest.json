@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fdeddac.css",
+    "main.js": "/static/js/main.d486aaa3.js",
+    "static/media/otp-icon.svg": "/static/media/otp-icon.e1f11b6ad1630fb9c91d.svg",
+    "index.html": "/index.html",
+    "main.8fdeddac.css.map": "/static/css/main.8fdeddac.css.map",
+    "main.d486aaa3.js.map": "/static/js/main.d486aaa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fdeddac.css",
+    "static/js/main.d486aaa3.js"
+  ]
+}
